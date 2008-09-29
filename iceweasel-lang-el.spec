@@ -2,12 +2,12 @@
 Summary:	Greek resources for Iceweasel
 Summary(pl.UTF-8):	Greckie pliki językowe dla Iceweasel
 Name:		iceweasel-lang-%{_lang}
-Version:	3.0.1
-Release:	3
+Version:	3.0.3
+Release:	1
 License:	GPL
 Group:		I18n
 Source0:	http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/%{version}/linux-i686/xpi/%{_lang}.xpi
-# Source0-md5:	3bc40ec6561c0d933ec5d990899c1772
+# Source0-md5:	a4eea199ecb47992afb0d719d7267621
 URL:		http://www.mozilla.org/
 BuildRequires:	sed >= 4.0
 BuildRequires:	unzip
